@@ -1,6 +1,6 @@
 ## Subject
 
-- FRDM-K64F보드와 HUZZAH ESP8266보드 이용 하드웨어 구성 및 다양한 실습 및 ALARM CLOCK 미니 프로젝트
+- FRDM-K64F보드와 HUZZAH ESP8266를 사용한 하드웨어 구성 및 ALARM CLOCK 미니 프로젝트
 
 ---
 
