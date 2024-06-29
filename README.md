@@ -41,27 +41,18 @@
 - Mbed Application Shield(이하 Shield) joystick으로 시간 설정
 - MainScreen ClockSet Mode :
     
-    > joystick up : 시(HH) 1씩 증가
-    > 
-    > 
-    > joystick down : 시(HH) 1씩 감소
-    > 
-    > joystick left : 분(MM) 1씩 증가
-    > 
-    > joystick right : 분(MM) 1씩 감소
-    > 
-    > joystic center : 초(SS) 리셋\n
-    >
+    - joystick up : 시(HH) 1씩 증가
+    - joystick down : 시(HH) 1씩 감소
+    - joystick left : 분(MM) 1씩 증가
+    - joystick right : 분(MM) 1씩 감소
+    - joystic center : 초(SS) 리셋\n
      
 AlarmSetScreen ClockSet Mode :
     
-    > joystick up : 시(HH) 1씩 증가\n
-    > 
-    > joystick down : 시(HH) 1씩 감소\n
-    > 
-    > joystick left : 분(MM) 1씩 증가\n
-    > 
-    > joystick right : 분(MM) 1씩 감소\n
+    - joystick up : 시(HH) 1씩 증가\n 
+    - joystick down : 시(HH) 1씩 감소\n 
+    - joystick left : 분(MM) 1씩 증가\n 
+    - joystick right : 분(MM) 1씩 감소\n
     
 [SW3]
     
