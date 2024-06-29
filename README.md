@@ -20,8 +20,8 @@
 
 ---
 
-- 오픈 ARM Keli Studio이용 아날로그 및 디지털 입출력, 인터넷 통신 실습 코드 작성
-- ALARM CLOCK 인터넷 통신 기능 구현
+- ARM Keli Studio 아날로그 및 디지털 입출력, 인터넷 통신 실습
+- ALARM CLOCK 주요 기능 구현
 
 ---
 
@@ -39,9 +39,9 @@
 
 ---
 
-- **Demonstration**
+**Demonstration**
     - https://www.youtube.com/watch?v=1yp4uvCmZsc
-- **Functional description**
+**Functional description**
     
     [SW1]
     
