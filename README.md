@@ -47,7 +47,7 @@
     - joystick right : 분(MM) 1씩 감소
     - joystic center : 초(SS) 리셋\n
      
-AlarmSetScreen ClockSet Mode :
+- AlarmSetScreen ClockSet Mode :
     
     - joystick up : 시(HH) 1씩 증가\n 
     - joystick down : 시(HH) 1씩 감소\n 
