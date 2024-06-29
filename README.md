@@ -45,13 +45,13 @@
     
 [SW1]
     
-1. 누를 때마다 MainScreen, Alarm1SetScreen, Alarm2SetScreen, Alarm3SetScreen으로 순서대로 이동(화면 순환)
+- 누를 때마다 MainScreen, Alarm1SetScreen, Alarm2SetScreen, Alarm3SetScreen으로 순서대로 이동(화면 순환)
     
 [SW2]
     
-1. SW2 누르면 ClockSet Mode로 진입
-2. Mbed Application Shield(이하 Shield) joystick으로 시간 설정
-3. MainScreen ClockSet Mode :
+- SW2 누르면 ClockSet Mode로 진입
+- Mbed Application Shield(이하 Shield) joystick으로 시간 설정
+- MainScreen ClockSet Mode :
     
     > joystick up : 시(HH) 1씩 증가
     > 
@@ -63,18 +63,17 @@
     > joystick right : 분(MM) 1씩 감소
     > 
     > joystic center : 초(SS) 리셋\n
-    > 
-    1. AlarmSetScreen ClockSet Mode :
+    >
+     
+AlarmSetScreen ClockSet Mode :
     
     > joystick up : 시(HH) 1씩 증가\n
-    > 
     > 
     > joystick down : 시(HH) 1씩 감소\n
     > 
     > joystick left : 분(MM) 1씩 증가\n
     > 
     > joystick right : 분(MM) 1씩 감소\n
-    > 
     
 [SW3]
     
@@ -82,7 +81,7 @@
 2. AlarmSetScreen에서 SW3 누르면 해당 알람 해제
     
 > ex) Alarm1SetScreen에서 SW3 누르면 설정된 알람이 해제됨
-> 
+ 
     
 [LCD]
 1. MainScreen : 현재 시각 Display
