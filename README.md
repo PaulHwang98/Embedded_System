@@ -1,14 +1,10 @@
 ## Subject
 
----
-
 - FRDM-K64F보드와 HUZZAH ESP8266보드 이용 하드웨어 구성 및 다양한 실습 및 ALARM CLOCK 미니 프로젝트
 
 ---
 
 ## Key Point
-
----
 
 - FRDM-K64F보드와 Mbed Application shield이용 아날로그 및 디지털 입출력
 - HUZZAH ESP8266보드 이용 인터넷 통신
@@ -18,8 +14,6 @@
 
 ## Role
 
----
-
 - ARM Keli Studio 아날로그 및 디지털 입출력, 인터넷 통신 실습
 - 알람 시계 동작을 위한 주요 C/C++ 코드 작성(main.cpp, thread.cpp, clock.cpp, ISR.cpp)
 
@@ -27,19 +21,13 @@
 
 ## **Capabilities**
 
----
-
 - 임베디드 시스템 아날로그 및 디지털 입출력 실습 경험
 - 임베디드 시스템 인터넷 통신 실습 경험
 - Thread와 ISR을 이용한 ALARM CLOCK 구현 경험
 
----
-
 ## ALARM_CLOCK
 
----
-
-**Demonstration**
+**Demo**
     - https://www.youtube.com/watch?v=1yp4uvCmZsc
 **Functional description**
     
@@ -100,6 +88,3 @@ AlarmSetScreen ClockSet Mode :
 ---
 
 <img width="910" alt="스크린샷 2023-11-08 오후 3 03 41" src="https://github.com/actorjung/Embedded_System/assets/112843229/317e1c3f-9fb5-498c-a505-a527b8fb561f">
-
-
----
