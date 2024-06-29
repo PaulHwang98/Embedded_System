@@ -14,7 +14,7 @@
 
 ## Role
 
-- ARM Keli Studio 아날로그 및 디지털 입출력, 인터넷 통신 실습
+- ARM Keli Studio를 통해 아날로그 및 디지털 입출력, 인터넷 통신 실습
 - 알람 시계 동작을 위한 주요 C/C++ 코드 작성(main.cpp, thread.cpp, clock.cpp, ISR.cpp)
 
 ---
