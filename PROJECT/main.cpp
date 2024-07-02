@@ -18,7 +18,7 @@ void wifiConnect(void)
         "wifi.setmode(wifi.STATION)", 1,
         "", 1,
         "station_cfg={}", 1,
-        "station_cfg.ssid=\"softn12\"", 1,
+        "station_cfg.ssid=\"userID\"", 1,
         "station_cfg.pwd=\"password\"", 1,
         "station_cfg.save=false", 1,
         "wifi.sta.config(station_cfg)", 1,
